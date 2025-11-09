@@ -29,11 +29,11 @@ TES README
 
 ### 👾 Tentang Saya
 
-Saya seorang developer game dengan pengalaman [Jumlah Tahun] tahun, dengan fokus utama pada [Engine, misal: Unity / Unreal / Godot]. Saya menyukai tantangan dalam merancang mekanik gameplay yang inovatif dan mengoptimalkan performa game.
+Saya seorang developer game dengan pengalaman  tahun, dengan fokus utama pada Unity. Saya menyukai tantangan dalam merancang mekanik gameplay yang inovatif dan mengoptimalkan performa game.
 
-* 🌱 Saat ini saya sedang mendalami: **[Sesuatu yang baru Anda pelajari, misal: AI untuk NPC, Shader Graph, atau Unreal Engine 5]**
-* 🎮 Game favorit saya: **[Sebutkan 1-2 game, misal: Hollow Knight, The Witcher 3]**
-* 📫 Hubungi saya: **[email@anda.com]**
+* 🌱 Saat ini saya sedang mendalami: ** **
+* 🎮 Game favorit saya: ** **
+* 📫 Hubungi saya: **raymlg2005@gmail.com**
 
 ---
 
