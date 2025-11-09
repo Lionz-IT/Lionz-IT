@@ -141,7 +141,7 @@ Berikut adalah beberapa game yang telah saya kembangkan. Pastikan untuk *pin* re
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_ANDA]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub [NAMA_ANDA]">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lionz-IT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub [NAMA_ANDA]">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ANDA]&layout=compact&langs_count=8&theme=dracula" alt="Bahasa Teratas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lionz-IT&layout=compact&langs_count=8&theme=dracula" alt="Bahasa Teratas">
 </div>
