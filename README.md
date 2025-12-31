@@ -1,5 +1,3 @@
-TES README
-
 <div align="center">
   
   <h1>Hi, My Name is Rafif Ahmad Yudhistira 👋</h1>
