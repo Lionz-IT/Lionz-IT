@@ -30,7 +30,7 @@
 Saya seorang developer game dengan pengalaman  tahun, dengan fokus utama pada Unity. Saya menyukai tantangan dalam merancang mekanik gameplay yang inovatif dan mengoptimalkan performa game.
 
 * 🌱 Saat ini saya sedang mendalami: ** **
-* 🎮 Game favorit saya: ** **
+* 🎮 Game favorit saya: **Anime Vanguards on Roblox**
 * 📫 Hubungi saya: **raymlg2005@gmail.com**
 
 ---
