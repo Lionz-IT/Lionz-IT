@@ -121,9 +121,9 @@ Berikut adalah beberapa game yang telah saya kembangkan.
         <strong>Teknologi:</strong> Unity, C#
       </p>
       <p>
-        <a href="https://github.com/Lionz-IT/SquidGame-RLGL.git"><strong>🎮 Mainkan Gamenya di itch.io!</strong></a> 
+        <a href="#"><strong>🎮 Mainkan Gamenya di itch.io!</strong></a> 
         <br>
-        <a href="[LINK_KE_REPO_PROYEK_2]">Lihat Kode</a>
+        <a href="https://github.com/Lionz-IT/SquidGame-RLGL.git">Lihat Kode</a>
       </p>
     </td>
     <td width="40%">
