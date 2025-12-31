@@ -79,29 +79,29 @@ Ini adalah *tools* dan teknologi yang sering saya gunakan dalam proyek game saya
 
 ### 🏆 Proyek Unggulan Saya
 
-Berikut adalah beberapa game yang telah saya kembangkan. Pastikan untuk *pin* repositori ini di profil Anda!
+Berikut adalah beberapa game yang telah saya kembangkan.
 
 <table>
   <tr>
     <td width="60%">
-      <a href="[LINK_KE_REPO_PROYEK_1]">
-        <strong>Project: [Nama Game Anda]</strong>
+      <a href="https://github.com/Lionz-IT/Flappy-Bird-Tutorial-Kodio.git">
+        <strong>Project: Flappy Bird</strong>
       </a>
       <p>
-        [Deskripsi singkat game Anda, 1-2 kalimat. Apa genrenya? Apa yang membuatnya unik?]
+        Flappy Bird menggunakan jaringan Q mendalam untuk melatih agen AI (Flappy Bird) melalui pembelajaran penguatan . Agen tersebut menganalisis lingkungan permainan seperti jarak antara pipa dan lintasan, kemudian membuat keputusan apakah akan mengepakkan sayapnya          atau tidak.
       </p>
       <p>
-        <strong>Teknologi:</strong> [Sebutkan teknologi utama, misal: Unity, C#, Aseprite]
+        <strong>Teknologi:</strong> Unity, C#
       </p>
       <p>
         <a href="[LINK_ITCHIO_GAME_ANDA]"><strong>🎮 Mainkan Gamenya di itch.io!</strong></a> 
         <br>
-        <a href="[LINK_KE_REPO_PROYEK_1]">Lihat Kode</a> | 
+        <a href="https://github.com/Lionz-IT/Flappy-Bird-Tutorial-Kodio.git">Lihat Kode</a> | 
         <a href="[LINK_VIDEO_DEMO_YOUTUBE]">Tonton Demo</a>
       </p>
     </td>
     <td width="40%">
-      <a href="[LINK_KE_REPO_PROYEK_1]">
+      <a href="https://github.com/Lionz-IT/Flappy-Bird-Tutorial-Kodio.git">
         <img src="[LINK_KE_GIF_GAMEPLAY_ANDA.gif]" alt="Gameplay GIF Proyek 1">
       </a>
     </td>
@@ -111,23 +111,23 @@ Berikut adalah beberapa game yang telah saya kembangkan. Pastikan untuk *pin* re
 <table>
   <tr>
     <td width="60%">
-      <a href="[LINK_KE_REPO_PROYEK_2]">
-        <strong>Project: [Nama Game Lain Anda]</strong>
+      <a href="https://github.com/Lionz-IT/SquidGame-RLGL.git">
+        <strong>Project: Squid Game RLGL</strong>
       </a>
       <p>
-        [Deskripsi singkat game Anda, 1-2 kalimat. Apa genrenya? Apa yang membuatnya unik?]
+        Red Light Green Light adalah salah satu game yang muncul di drakor Squid Game (2021). Inti dari permainan ini adalah, para pemain harus berjalan hingga garis finish saat boneka Young Hee sedang menghadap pohon.
       </p>
       <p>
-        <strong>Teknologi:</strong> [Sebutkan teknologi utama, misal: Godot, GDScript]
+        <strong>Teknologi:</strong> Unity, C#
       </p>
       <p>
-        <a href="[LINK_ITCHIO_GAME_ANDA_2]"><strong>🎮 Mainkan Gamenya di itch.io!</strong></a> 
+        <a href="https://github.com/Lionz-IT/SquidGame-RLGL.git"><strong>🎮 Mainkan Gamenya di itch.io!</strong></a> 
         <br>
         <a href="[LINK_KE_REPO_PROYEK_2]">Lihat Kode</a>
       </p>
     </td>
     <td width="40%">
-      <a href="[LINK_KE_REPO_PROYEK_2]">
+      <a href="https://github.com/Lionz-IT/SquidGame-RLGL.git">
         <img src="[LINK_KE_GIF_GAMEPLAY_ANDA_2.gif]" alt="Gameplay GIF Proyek 2">
       </a>
     </td>
