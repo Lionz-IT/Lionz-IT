@@ -2,7 +2,7 @@ TES README
 
 <div align="center">
   
-  <h1>Wassup, saya Rafif Ahmad Yudhistira 👋</h1>
+  <h1>Hi, My Name is Rafif Ahmad Yudhistira 👋</h1>
   
   <p>
     Saya seseorang yang bercita-cita menjadi <strong>Indie Game Developer</strong> & <strong>Gameplay Programmer</strong> 
