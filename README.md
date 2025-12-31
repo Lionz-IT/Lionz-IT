@@ -14,7 +14,7 @@
   <a href="https://[USERNAME_ITCHIO].itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/itch.io-Fa5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
   </a>
-  <a href="https://www.linkedin.com/in/[USERNAME_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/rafif-ahmad-yudhistira-04836331b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/[USERNAME_TWITTER]" target="_blank">
