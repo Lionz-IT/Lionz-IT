@@ -8,7 +8,7 @@
     yang bersemangat menciptakan pengalaman bermain yang unik dan imersif.
   </p>
 
-   <a href="https://[LINK_PORTFOLIO_ANDA].com" target="_blank">
+   <a href="https://lionz-it.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portofolio-Website-blue?style=for-the-badge&logo=rss" alt="Portofolio">
   </a>
   <a href="https://[USERNAME_ITCHIO].itch.io/" target="_blank">
