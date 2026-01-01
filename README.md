@@ -1,15 +1,15 @@
 <div align="center">
   
-  <h1>Hi, My Name is Rafif Ahmad Yudhistira 👋</h1>
+  <h1>Hi, I'm Rafif Ahmad Yudhistira 👋</h1>
   
   <p>
-    Saya seseorang yang bercita-cita menjadi <strong>Indie Game Developer</strong> & <strong>Gameplay Programmer</strong> 
+    An aspiring <strong>Indie Game Developer</strong> & <strong>Gameplay Programmer</strong> 
     <br>
-    yang bersemangat menciptakan pengalaman bermain yang unik dan imersif.
+    passionate about crafting unique and immersive gaming experiences.
   </p>
 
    <a href="https://lionz-it.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portofolio-Website-blue?style=for-the-badge&logo=rss" alt="Portofolio">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=rss" alt="Portfolio">
   </a>
   <a href="https://[USERNAME_ITCHIO].itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/itch.io-Fa5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
@@ -25,19 +25,19 @@
 
 ---
 
-### 👾 Tentang Saya
+### 👾 About Me
 
-Saya seorang developer game dengan pengalaman 1 tahun, dengan fokus utama pada Unity. Saya menyukai tantangan dalam merancang mekanik gameplay yang inovatif dan mengoptimalkan performa game.
+I am a Game Developer with 1 year of experience, specializing primarily in Unity. I thrive on the challenge of designing innovative gameplay mechanics and optimizing game performance.
 
-* 🌱 Saat ini saya sedang mendalami: **Game Development**
-* 🎮 Game favorit saya: **Anime Vanguards on Roblox**
-* 📫 Hubungi saya: **raymlg2005@gmail.com**
+* 🌱 Currently learning: **Game Development**
+* 🎮 Favorite Game: **Anime Vanguards on Roblox**
+* 📫 Reach me at: **raymlg2005@gmail.com**
 
 ---
 
-### 🛠️ Keahlian & Teknologi (Tech Stack)
+### 🛠️ Tech Stack & Skills
 
-Ini adalah *tools* dan teknologi yang sering saya gunakan dalam proyek game saya:
+Here are the tools and technologies I frequently use in my game projects:
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ Ini adalah *tools* dan teknologi yang sering saya gunakan dalam proyek game saya
   </tr>
   <tr>
     <td align="center">
-      <strong>Bahasa</strong>
+      <strong>Languages</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -63,7 +63,7 @@ Ini adalah *tools* dan teknologi yang sering saya gunakan dalam proyek game saya
   </tr>
   <tr>
     <td align="center">
-      <strong>Tools & Lainnya</strong>
+      <strong>Tools & Others</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -77,32 +77,32 @@ Ini adalah *tools* dan teknologi yang sering saya gunakan dalam proyek game saya
 
 ---
 
-### 🏆 Proyek Unggulan Saya
+### 🏆 Featured Projects
 
-Berikut adalah beberapa game yang telah saya kembangkan.
+Here are a few highlights from my development portfolio:
 
 <table>
   <tr>
     <td width="60%">
       <a href="https://github.com/Lionz-IT/Flappy-Bird-Tutorial-Kodio.git">
-        <strong>Project: Flappy Bird</strong>
+        <strong>Project: Flappy Bird AI</strong>
       </a>
       <p>
-        Flappy Bird menggunakan jaringan Q mendalam untuk melatih agen AI (Flappy Bird) melalui pembelajaran penguatan . Agen tersebut menganalisis lingkungan permainan seperti jarak antara pipa dan lintasan, kemudian membuat keputusan apakah akan mengepakkan sayapnya          atau tidak.
+        This project utilizes a Deep Q-Network to train an AI agent via Reinforcement Learning to play Flappy Bird. The agent analyzes the environment—such as pipe distance and trajectory—to make real-time decisions on whether to flap or glide.
       </p>
       <p>
-        <strong>Teknologi:</strong> Unity, C#
+        <strong>Tech Stack:</strong> Unity, C#
       </p>
       <p>
-        <a href="[LINK_ITCHIO_GAME_ANDA]"><strong>🎮 Mainkan Gamenya di itch.io!</strong></a> 
+        <a href="[LINK_ITCHIO_GAME_ANDA]"><strong>🎮 Play on itch.io!</strong></a> 
         <br>
-        <a href="https://github.com/Lionz-IT/Flappy-Bird-Tutorial-Kodio.git">Lihat Kode</a> | 
-        <a href="[LINK_VIDEO_DEMO_YOUTUBE]">Tonton Demo</a>
+        <a href="https://github.com/Lionz-IT/Flappy-Bird-Tutorial-Kodio.git">View Code</a> | 
+        <a href="[LINK_VIDEO_DEMO_YOUTUBE]">Watch Demo</a>
       </p>
     </td>
     <td width="40%">
       <a href="https://github.com/Lionz-IT/Flappy-Bird-Tutorial-Kodio.git">
-        <img src="[LINK_KE_GIF_GAMEPLAY_ANDA.gif]" alt="Gameplay GIF Proyek 1">
+        <img src="[LINK_KE_GIF_GAMEPLAY_ANDA.gif]" alt="Project 1 Gameplay GIF">
       </a>
     </td>
   </tr>
@@ -115,20 +115,20 @@ Berikut adalah beberapa game yang telah saya kembangkan.
         <strong>Project: Squid Game RLGL</strong>
       </a>
       <p>
-        Red Light Green Light adalah salah satu game yang muncul di drakor Squid Game (2021). Inti dari permainan ini adalah, para pemain harus berjalan hingga garis finish saat boneka Young Hee sedang menghadap pohon.
+        A recreation of the iconic "Red Light, Green Light" challenge from the series <em>Squid Game</em> (2021). The core objective requires players to navigate to the finish line while avoiding detection when the doll, Young Hee, turns around.
       </p>
       <p>
-        <strong>Teknologi:</strong> Unity, C#
+        <strong>Tech Stack:</strong> Unity, C#
       </p>
       <p>
-        <a href="#"><strong>🎮 Mainkan Gamenya di itch.io!</strong></a> 
+        <a href="#"><strong>🎮 Play on itch.io!</strong></a> 
         <br>
-        <a href="https://github.com/Lionz-IT/SquidGame-RLGL.git">Lihat Kode</a>
+        <a href="https://github.com/Lionz-IT/SquidGame-RLGL.git">View Code</a>
       </p>
     </td>
     <td width="40%">
       <a href="https://github.com/Lionz-IT/SquidGame-RLGL.git">
-        <img src="[LINK_KE_GIF_GAMEPLAY_ANDA_2.gif]" alt="Gameplay GIF Proyek 2">
+        <img src="[LINK_KE_GIF_GAMEPLAY_ANDA_2.gif]" alt="Project 2 Gameplay GIF">
       </a>
     </td>
   </tr>
@@ -136,10 +136,10 @@ Berikut adalah beberapa game yang telah saya kembangkan.
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lionz-IT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub [NAMA_ANDA]">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lionz-IT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Rafif's GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lionz-IT&layout=compact&langs_count=8&theme=dracula" alt="Bahasa Teratas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lionz-IT&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
 </div>
