@@ -27,7 +27,7 @@
 
 ### 👾 Tentang Saya
 
-Saya seorang developer game dengan pengalaman  tahun, dengan fokus utama pada Unity. Saya menyukai tantangan dalam merancang mekanik gameplay yang inovatif dan mengoptimalkan performa game.
+Saya seorang developer game dengan pengalaman 1 tahun, dengan fokus utama pada Unity. Saya menyukai tantangan dalam merancang mekanik gameplay yang inovatif dan mengoptimalkan performa game.
 
 * 🌱 Saat ini saya sedang mendalami: **Game Development**
 * 🎮 Game favorit saya: **Anime Vanguards on Roblox**
