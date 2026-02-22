@@ -11,7 +11,6 @@ I am a developer who thrives at the intersection of web and game development. I 
 - **Currently building:** A modern, framework-driven interactive web portfolio.
 - **Currently exploring:** Advanced Front-End architectures and complex system designs in Unity & Roblox Studio.
 - **Main Focus:** Front-End Web Development, C# Gameplay Programming, and Lua Scripting.
-- **Fun fact:** I find debugging a complex game loop just as satisfying as aligning a stubborn CSS flexbox container.
 
 ---
 
