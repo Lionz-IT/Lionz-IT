@@ -14,17 +14,6 @@ I am a developer who thrives at the intersection of web and game development. I 
 
 ---
 
-## Achievements & Highlights
-
-- **[Insert Game Milestone]:** Successfully published *[Game Name]* on Itch.io / Roblox, achieving *[X]* plays/visits.
-- **[Insert Web Milestone]:** Developed and deployed a responsive web application using *[Framework/Tech]*, focusing on performance and user experience.
-- **[Insert Technical Skill]:** Engineered a custom physics controller / state machine in Unity to streamline character movement.
-- **[Insert Collaboration/Learning]:** Consistently expanding my technical stack and contributing to open-source or team-based projects.
-
-*(Note: Feel free to edit the bullet points above with your actual projects, metrics, or proudest milestones!)*
-
----
-
 ## Tech Stack & Tools
 
 **Front-End Development**
