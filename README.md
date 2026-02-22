@@ -51,8 +51,8 @@ I am a developer who thrives at the intersection of web and game development. I 
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lionz-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lionz-IT&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Lionz-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lionz-IT&theme=tokyonight" alt="Top Languages" width="49%" height="180px" />
 </div>
 
 ---
@@ -62,7 +62,7 @@ I am a developer who thrives at the intersection of web and game development. I 
 Looking to collaborate on a web project or build an awesome game together? Let's talk.
 
 <a href="mailto:raymlg2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/LINKEDIN-KAMU" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://itch.io/profile/ITCHIO-KAMU" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
-<a href="https://www.roblox.com/users/USERID_KAMU/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox"/></a>
+<a href="https://www.linkedin.com/in/rafif-ahmad-yudhistira-04836331b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
+<a href="https://www.roblox.com/users/5402272324/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox"/></a>
 <a href="https://lionz-it.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/></a>
