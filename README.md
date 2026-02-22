@@ -51,10 +51,8 @@ I am a developer who thrives at the intersection of web and game development. I 
 ## GitHub Statistics
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lionz-IT&theme=tokyonight&hide_border=true)](https://github.com/Lionz-IT)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionz-IT&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Lionz-IT)
-
+  <img src="https://streak-stats.demolab.com/?user=Lionz-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lionz-IT&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
 ---
