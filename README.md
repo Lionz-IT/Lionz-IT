@@ -54,4 +54,4 @@ Looking to collaborate on a web project or build an awesome game together? Let's
 <a href="https://www.linkedin.com/in/rafif-ahmad-yudhistira-04836331b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
 <a href="https://www.roblox.com/users/5402272324/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox"/></a>
-<a href="https://lionz-it.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/></a>
+<a href="https://lionz-it.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/></a>
