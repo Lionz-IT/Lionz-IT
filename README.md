@@ -1,6 +1,9 @@
-# Hi, I'm Rafif Ahmad Yudhistira 👋
-
-### Full-Stack Web & Mobile Developer
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGloMzI5NTVvZTU0ZnlxOXJndmRocGVscmc5NmdlemdiODAycHFlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Anime Coding GIF" width="100%" style="max-width: 600px; border-radius: 15px;" />
+  <br>
+  <h1>Hi, I'm Rafif Ahmad Yudhistira 👋</h1>
+  <h3>Full-Stack Web & Mobile Developer</h3>
+</div>
 
 I am a developer who thrives in focused, deep-work environments, specializing in building interactive web and mobile applications. I enjoy bridging the gap between seamless UI/UX design and complex system architecture, while utilizing AI tools to optimize coding efficiency and problem-solving.
 
