@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGloMzI5NTVvZTU0ZnlxOXJndmRocGVscmc5NmdlemdiODAycHFlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Anime Coding GIF" width="100%" style="max-width: 600px; border-radius: 15px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGloMzI5NTVvZTU0ZnlxOXJndmRocGVscmc5NmdlemdiODAycHFlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Anime Coding GIF" height="75%" width="75%" style="max-width: 600px; border-radius: 15px;" />
   <br>
   <h1>Hi, I'm Rafif Ahmad Yudhistira 👋</h1>
   <h3>Full-Stack Web & Mobile Developer</h3>
