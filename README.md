@@ -40,9 +40,8 @@ I am a developer who thrives in focused, deep-work environments, specializing in
 <br>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-**OS, Version Control & Tools**
+**Version Control & Tools**
 <br>
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793d1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
